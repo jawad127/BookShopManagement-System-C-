@@ -1,0 +1,13 @@
+discription : 
+
+Kindly ignore other projects by group 16 this one is original.	Our project is about bookshop management system .in this application there are two sections .
+ on for the admin's and other for the customer. to access the admin menu you must login first 
+
+( username : jawad , password : pass123 ) once you loged in then there further more thigngs which can
+ only admin do first ADD BOOKS then YOU can SEARCH , DELETE , UPDATE . while in customer's menu you can
+just SEARCH and PURCHASE the book .
+
+thank you;
+
+
+
